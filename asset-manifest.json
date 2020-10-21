@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/projeto_ces26/static/css/main.5f361e03.chunk.css",
+    "main.js": "/projeto_ces26/static/js/main.da6e9806.chunk.js",
+    "main.js.map": "/projeto_ces26/static/js/main.da6e9806.chunk.js.map",
+    "runtime-main.js": "/projeto_ces26/static/js/runtime-main.3f50812d.js",
+    "runtime-main.js.map": "/projeto_ces26/static/js/runtime-main.3f50812d.js.map",
+    "static/js/2.7eb0f0b0.chunk.js": "/projeto_ces26/static/js/2.7eb0f0b0.chunk.js",
+    "static/js/2.7eb0f0b0.chunk.js.map": "/projeto_ces26/static/js/2.7eb0f0b0.chunk.js.map",
+    "index.html": "/projeto_ces26/index.html",
+    "precache-manifest.2ced599a7a993baea95057570131ec0a.js": "/projeto_ces26/precache-manifest.2ced599a7a993baea95057570131ec0a.js",
+    "service-worker.js": "/projeto_ces26/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/projeto_ces26/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.7eb0f0b0.chunk.js.LICENSE.txt": "/projeto_ces26/static/js/2.7eb0f0b0.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/projeto_ces26/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f50812d.js",
+    "static/js/2.7eb0f0b0.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.da6e9806.chunk.js"
+  ]
+}
