@@ -2,11 +2,7 @@
 
 module.exports = {
   client: 'postgresql',
-  connection: {
-    database: 'vila_market2',
-    user:     'postgres',
-    password: '123456'
-  },
+  connection: process.env.DATABASE_URL,
   pool: {
     min: 2,
     max: 10
