@@ -10,10 +10,10 @@ module.exports = app => {
         .post(app.api.user.save)
         .get(app.api.user.get)
 
-    app.route('/users/:id')
+    
+        app.route('/users/:email')
         //.all(app.config.passport.authenticate())
-        .put(app.api.user.save)
-        .get(app.api.user.getById)
+        .get(app.api.user.getByEmail)
     
     app.route('/categories')
         //.all(app.config.passport.authenticate())

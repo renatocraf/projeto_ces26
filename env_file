@@ -1,0 +1,10 @@
+module.exports = {
+    authSecret: '123456',
+    db: {
+        host : '127.0.0.1',
+        port: 5432,
+        database: 'vila_market2',
+        user: 'postgres',
+        password: '123456'
+    }
+}
